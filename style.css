@@ -24,8 +24,9 @@ h1{
     list-style-type:none;
     background-color:rgb(176, 8, 8);
     padding: 0px;
-    margin:0px;
+    margin:10px;
     overflow:hidden;
+    border-radius:2px;
 }
 
 .navbar a{
