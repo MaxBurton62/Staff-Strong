@@ -2,9 +2,11 @@ body{
     font-size: medium;
     background-color:rgb(108, 147, 169);
 }
+
 .homebody{
     background-size:cover;
 }
+
 .main{
     margin: auto;
     background-color: rgb(141, 178, 198);
@@ -23,7 +25,7 @@ body{
     list-style:inside;
 }
 .mainSections img{
-    border-radius: 10%;
+    border-radius: 0%;
 }
 h1{
     text-align:center;
