@@ -1,6 +1,12 @@
 body{
     font-size: medium;
 }
+
+.homebody{
+    background-image:url(https://www.heart.org/en/-/media/Images/News/2024/July-2024/0702DrowningCPR_SC.jpg?h=450&iar=0&mw=600&w=600&sc_lang=en);
+    background-size:cover;
+}
+
 .main{
     margin: auto;
     background-color: rgb(141, 178, 198);
