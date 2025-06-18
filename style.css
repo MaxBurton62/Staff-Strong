@@ -43,3 +43,13 @@ h1{
 .navbar li{
     float:left;
 }
+.Logo{
+    background-color: rgb(113, 161, 201);
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center;     /* centers vertically */
+    height: 100px;
+}
+.navbar img{
+    float: right;
+}
