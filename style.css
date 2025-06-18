@@ -24,7 +24,9 @@ body{
 .mainSections li{
     list-style:inside;
 }
-
+.mainSections img{
+    border-radius: 10%;
+}
 h1{
     text-align:center;
 }
@@ -54,13 +56,6 @@ h1{
     float:left;
 
 }
-.Logo{
-    background-color: rgb(113, 161, 201);
-    display: flex;
-    justify-content: center; /* centers horizontally */
-    align-items: center;     /* centers vertically */
-    height: 100px;
-}
 .navbar img{
     float: right;
 }
@@ -70,9 +65,6 @@ h1{
     justify-content: center; /* centers horizontally */
     align-items: center;     /* centers vertically */
     height: 100px;
-}
-.navbar img{
-    float: right;
 }
 .JReid{
     margin: auto;
