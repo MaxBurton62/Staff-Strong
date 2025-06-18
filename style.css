@@ -11,7 +11,7 @@ body{
 }
 .mainSections{
     margin: auto;
-    background-color: aqua;
+    background-color: rgb(116, 149, 168);
     width: 60%;
     border-radius: 20px;
 }
@@ -22,10 +22,11 @@ h1{
 
 .navbar ul{
     list-style-type:none;
-    background-color:rgb(176, 8, 8);
+    background-color:rgb(8, 79, 138);
     padding: 0px;
-    margin:0px;
+    margin:10px;
     overflow:hidden;
+    border-radius:2px;
 }
 
 .navbar a{
@@ -43,13 +44,13 @@ h1{
 .navbar li{
     float:left;
 }
-.Logo{
-    background-color: rgb(113, 161, 201);
-    display: flex;
-    justify-content: center; /* centers horizontally */
-    align-items: center;     /* centers vertically */
-    height: 100px;
-}
-.navbar img{
-    float: right;
+
+.JReid{
+    margin: auto;
+    background-color: blue;
+    text-align: center;
+    width: 80%;
+    align-items: center;
+    
+
 }
