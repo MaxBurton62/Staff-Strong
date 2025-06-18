@@ -67,9 +67,14 @@ h1{
 }
 .JReid{
     margin: auto;
-    background-color: blue;
+    background-color: rgb(12, 240, 42);
     text-align: center;
-    width: 80%;
+    width: 100%;
     align-items: center;
-
+    }
+.JReidheader1{
+    background-color: blue;
+}
+.JReidheader2{
+    background-color: blue;
 }
