@@ -3,7 +3,7 @@ body{
 }
 .main{
     margin: auto;
-    background-color: aquamarine;
+    background-color: rgb(141, 178, 198);
     text-align: center;
     width: 90%;
     align-items: center;
@@ -11,7 +11,7 @@ body{
 }
 .mainSections{
     margin: auto;
-    background-color: rgb(116, 149, 168);
+    background-color: rgb(108, 147, 169);
     width: 60%;
     border-radius: 20px;
 }
