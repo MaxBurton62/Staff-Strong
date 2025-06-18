@@ -67,9 +67,11 @@ h1{
 }
 .JReid{
     margin: auto;
-    background-color: blue;
+    background-color:rgb(113, 161, 201);
     text-align: center;
     width: 80%;
     align-items: center;
+    border-radius:20px;
+    color:black;
 
 }
