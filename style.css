@@ -80,7 +80,22 @@ h1{
     text-align: center;
     width: 80%;
     align-items: center;
+<<<<<<< HEAD
     border-radius:20px;
     color:black; 
     padding: 5px;
+=======
+    
+
+}
+
+.survey{
+    background-color: gray;
+    color:white;
+    border-radius:5px;
+    height:37px;
+    width:70px;
+    border:none;
+    font-weight:bold;
+>>>>>>> Max-branch
 }
