@@ -24,9 +24,7 @@ body{
 .mainSections li{
     list-style:inside;
 }
-.mainSections img{
-    border-radius: 0%;
-}
+
 h1{
     text-align:center;
 }
@@ -56,6 +54,13 @@ h1{
     float:left;
 
 }
+.Logo{
+    background-color: rgb(113, 161, 201);
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center;     /* centers vertically */
+    height: 100px;
+}
 .navbar img{
     float: right;
 }
@@ -66,6 +71,9 @@ h1{
     align-items: center;     /* centers vertically */
     height: 100px;
 }
+.navbar img{
+    float: right;
+}
 .JReid{
     margin: auto;
     background-color:rgb(113, 161, 201);
@@ -75,4 +83,18 @@ h1{
     border-radius:20px;
     color:black; 
     padding: 5px;
+    
+
+}
+
+.survey{
+    background-color: gray;
+    color:white;
+    border-radius:5px;
+    height:150px;
+    width:300px;
+    border:none;
+    font-weight:bold;
+    margin-right:auto;
+    margin-left:auto;
 }
