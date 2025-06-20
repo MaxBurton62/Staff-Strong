@@ -1,27 +1,38 @@
 body{
     font-size: medium;
+    background-color:rgb(108, 147, 169);
 }
-
+body img{
+    margin: auto;
+    justify-self: center;
+}
 .homebody{
-    background-image:url(https://www.heart.org/en/-/media/Images/News/2024/July-2024/0702DrowningCPR_SC.jpg?h=450&iar=0&mw=600&w=600&sc_lang=en);
     background-size:cover;
 }
 
 .main{
     margin: auto;
-    background-color: aquamarine;
+    background-color: rgb(128, 161, 180);
     text-align: center;
-    width: 90%;
+    width: 100%;
     align-items: center;
     padding: 10px;
 }
 .mainSections{
     margin: auto;
-    background-color: aqua;
+    background-color: rgb(110, 159, 185);
     width: 60%;
     border-radius: 20px;
+    padding: 5px;
+    padding-right: 10px;
 }
-
+.mainSections li{
+    list-style:inside;
+}
+.mainSections img{
+    border-radius: 20px;
+    float: left;
+}
 h1{
     text-align:center;
 }
@@ -49,14 +60,31 @@ h1{
 
 .navbar li{
     float:left;
+
+}
+.Logo{
+    background-color: rgb(113, 161, 201);
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center;     /* centers vertically */
+    height: 100px;
+}
+.navbar img{
+    float: right;
 }
 
+.navbar img{
+    float: right;
+}
 .JReid{
     margin: auto;
-    background-color: blue;
+    background-color:rgb(113, 161, 201);
     text-align: center;
     width: 80%;
     align-items: center;
+    border-radius:20px;
+    color:black; 
+    padding: 5px;
     
 
 }
@@ -72,4 +100,8 @@ h1{
     display:block;
     margin-left:auto;
     margin-right:auto;
+    margin: auto;
+}
+.mainHeader{
+    margin-left: 10px;
 }
