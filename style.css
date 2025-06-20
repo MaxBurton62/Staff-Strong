@@ -2,7 +2,10 @@ body{
     font-size: medium;
     background-color:rgb(108, 147, 169);
 }
-
+body img{
+    margin: auto;
+    justify-self: center;
+}
 .homebody{
     background-size:cover;
 }
@@ -20,6 +23,7 @@ body{
     background-color: rgb(108, 147, 169);
     width: 60%;
     border-radius: 20px;
+    padding: 1px;
 }
 .mainSections li{
     list-style:inside;
@@ -98,4 +102,5 @@ h1{
     display:block;
     margin-left:auto;
     margin-right:auto;
+    margin: auto;
 }
