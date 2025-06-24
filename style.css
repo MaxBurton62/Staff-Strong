@@ -18,6 +18,9 @@ body img{
     align-items: center;
     padding: 10px;
 }
+.main img{
+    margin: auto;
+}
 .mainSections{
     margin: auto;
     background-color: rgb(110, 159, 185);
