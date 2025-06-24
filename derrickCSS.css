@@ -1,0 +1,31 @@
+.navbar{
+    border: 2px solid rgb(148, 0, 211);
+    color: rgb(172, 58, 242);
+    padding: 5rem 15rem;
+}
+ 
+.nav-links{
+    list-style:none;
+    gap: 1.5rem;
+    display:flex;
+    padding: 5rem 15rem;
+    box-shadow: 0 4px 6px rgb(134, 59, 135);
+   
+}
+ 
+a{width:30rem;
+    color:  rgb(172, 58, 242);}
+ 
+body{
+    text-align: center;
+    background-image:url(https://wallpapercave.com/wp/wp9639593.jpg);
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+p{
+    background-color: rgb(134, 59, 135);
+}
+ 
+ 
