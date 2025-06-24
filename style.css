@@ -1,21 +1,38 @@
 body{
     font-size: medium;
+    background-color:rgb(108, 147, 169);
 }
+body img{
+    margin: auto;
+    justify-self: center;
+}
+.homebody{
+    background-size:cover;
+}
+
 .main{
     margin: auto;
-    background-color: rgb(141, 178, 198);
+    background-color: rgb(128, 161, 180);
     text-align: center;
-    width: 90%;
+    width: 100%;
     align-items: center;
     padding: 10px;
 }
 .mainSections{
     margin: auto;
-    background-color: rgb(108, 147, 169);
+    background-color: rgb(110, 159, 185);
     width: 60%;
     border-radius: 20px;
+    padding: 5px;
+    padding-right: 10px;
 }
-
+.mainSections li{
+    list-style:inside;
+}
+.mainSections img{
+    border-radius: 20px;
+    float: left;
+}
 h1{
     text-align:center;
 }
@@ -55,13 +72,36 @@ h1{
 .navbar img{
     float: right;
 }
-.Logo{
-    background-color: rgb(113, 161, 201);
-    display: flex;
-    justify-content: center; /* centers horizontally */
-    align-items: center;     /* centers vertically */
-    height: 100px;
-}
+
 .navbar img{
     float: right;
+}
+.JReid{
+    margin: auto;
+    background-color:rgb(113, 161, 201);
+    text-align: center;
+    width: 80%;
+    align-items: center;
+    border-radius:20px;
+    color:black; 
+    padding: 5px;
+    
+
+}
+
+.survey{
+    background-color: gray;
+    color:white;
+    border-radius:5px;
+    height:150px;
+    width:300px;
+    border:none;
+    font-weight:bold;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin: auto;
+}
+.mainHeader{
+    margin-left: 10px;
 }
