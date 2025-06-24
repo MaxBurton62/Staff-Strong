@@ -31,7 +31,10 @@ body img{
 }
 .mainSections img{
     border-radius: 20px;
+}
+#headshots{
     float: left;
+    border-radius: 20px;
 }
 h1{
     text-align:center;
