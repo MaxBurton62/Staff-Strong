@@ -96,8 +96,8 @@ h1{
 }
 
 .survey{
-    background-color: gray;
-    color:white;
+    background-color: rgb(113, 161, 201);
+    color:blue;
     border-radius:5px;
     height:150px;
     width:300px;
