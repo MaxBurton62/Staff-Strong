@@ -1,0 +1,79 @@
+body{
+font-size:medium;
+text-align:center;
+background-color:rgb(8, 79, 138);
+background-image: url(bg4.jpg!);
+background-size:cover;
+background-position:bottom;
+padding-top:2px;  
+}
+ 
+header{
+ text-align:center;
+   font-family:Georgia, 'Times New Roman', Times, serif;  
+background-color:rgb(8, 79, 138);
+color: white;
+}
+.welcome{
+margin:auto ;
+text-align: center;
+background-color:rgb(8, 79, 138) ;
+width:500px;
+border-radius:20px;
+}
+.about-me{
+margin:auto ;
+text-align: center;
+background-color:rgb(8, 79, 138) ;
+width:500px;
+border-radius:20px;
+color:white;    
+}
+.skills{
+margin:auto ;
+text-align: center;
+background-color:#143684;
+width:500px;
+border-radius:20px;
+color:white;        
+}
+.experiences{
+margin:auto ;
+text-align: center;
+background-color:#143684 ;
+width:500px;
+border-radius:20px;
+color:white;          
+}
+.projects{
+margin:auto ;
+text-align: center;
+background-color:#143684 ;
+width:500px;
+border-radius:20px;
+color:white;              
+}
+.navbar{
+background-color:rgb(8, 79, 138);
+color:white
+}
+.nav-links{
+list-style:none;
+gap:1.5rem;
+display: flex;
+align-items:center;
+padding:2rem 50rem;
+box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+ 
+a{
+color:white;    
+}
+.contacts{ margin:auto ;
+text-align: center;
+background-color:#143684 ;
+width:500px;
+border-radius:20px;
+color:white;              
+}
+ 
