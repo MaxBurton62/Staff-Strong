@@ -110,5 +110,6 @@ h1{
     margin: auto;
 }
 .mainHeader{
-    margin-left: 10px;
+    margin: auto;
+    width: 80%;
 }
