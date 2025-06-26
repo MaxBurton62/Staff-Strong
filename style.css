@@ -1,13 +1,26 @@
 body{
     font-size: medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:rgb(108, 147, 169);
 }
 body img{
-    margin: auto;
+    margin:auto;
     justify-self: center;
+    align-self: center;
 }
+
+#meeting{
+    margin-left:70px;
+    margin-right:auto;
+}
+
 .homebody{
     background-size:cover;
+}
+.homebody img{
+    margin: auto;
+    justify-self: center;
+    align-self: center;
 }
 
 .main{
@@ -18,10 +31,13 @@ body img{
     align-items: center;
     padding: 10px;
 }
+.main img{
+    margin: auto;
+}
 .mainSections{
     margin: auto;
     background-color: rgb(110, 159, 185);
-    width: 60%;
+    width: 70%;
     border-radius: 20px;
     padding: 5px;
     padding-right: 10px;
@@ -31,7 +47,10 @@ body img{
 }
 .mainSections img{
     border-radius: 20px;
+}
+#headshots{
     float: left;
+    border-radius: 20px;
 }
 h1{
     text-align:center;
@@ -90,8 +109,8 @@ h1{
 }
 
 .survey{
-    background-color: gray;
-    color:white;
+    background-color: rgb(113, 161, 201);
+    color:blue;
     border-radius:5px;
     height:150px;
     width:300px;
@@ -103,5 +122,6 @@ h1{
     margin: auto;
 }
 .mainHeader{
-    margin-left: 10px;
+    margin: auto;
+    width: 80%;
 }
