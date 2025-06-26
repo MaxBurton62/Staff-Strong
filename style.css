@@ -25,7 +25,7 @@ body img{
 .mainSections{
     margin: auto;
     background-color: rgb(110, 159, 185);
-    width: 60%;
+    width: 70%;
     border-radius: 20px;
     padding: 5px;
     padding-right: 10px;
@@ -110,5 +110,6 @@ h1{
     margin: auto;
 }
 .mainHeader{
-    margin-left: 10px;
+    margin: auto;
+    width: 80%;
 }
