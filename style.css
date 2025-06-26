@@ -4,11 +4,23 @@ body{
     background-color:rgb(108, 147, 169);
 }
 body img{
-    margin: auto;
+    margin:auto;
     justify-self: center;
+    align-self: center;
 }
+
+#meeting{
+    margin-left:100px;
+    margin-right:auto;
+}
+
 .homebody{
     background-size:cover;
+}
+.homebody img{
+    margin: auto;
+    justify-self: center;
+    align-self: center;
 }
 
 .main{
