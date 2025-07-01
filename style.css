@@ -10,10 +10,29 @@ body img{
 }
 
 #meeting{
-    margin-left:70px;
-    margin-right:auto;
     border-radius: 3px;
 }
+
+.container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.swiper{
+    width:500px;
+    height:300px;
+}
+
+.swiper-slide img{
+    width:100%;
+}
+
+.swiper .swiper-button-prev:hover, .swiper-button-next:hover{
+    background-color:hsl(0,0%,10%);
+    color:white;
+}
+
 
 .homebody{
     background-size:cover;
