@@ -9,10 +9,11 @@ body img{
     align-self: center;
 }
 body video{
-    margin: auto;
+    display:flex;
     justify-self: center;
     align-self: center;
-    margin-left: 10%;
+    margin-top:25px;
+    margin-bottom:25px;
 }
 #meeting{
     border-radius: 3px;
@@ -26,8 +27,8 @@ body video{
 }
 
 .swiper{
-    width:500px;
-    height:300px;
+    width:1000px;
+    height:600px;
 }
 
 .swiper-slide img{
